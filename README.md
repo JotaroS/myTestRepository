@@ -4,7 +4,6 @@
 行末にスペースを2つ入れると
 改行されます。
 
-Jotaro modified here....
  
 段落を分けるには、[空行](http://example.com/) を入れます。
  
