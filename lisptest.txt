@@ -1,0 +1,21 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+
+(defun hello-world()
+    (interactive)
+    (message "Insert Hello-world!")
+    (insert "Hello World\n"))
+
+hello-world
+(define-key global-map "\C-ch" 'hello-world)
+
+hello-world
+Hello World
+Hello World
+Hello World
+(defun insert-time()
+    (interactive)
+    (insert (current-time-string)))
+(define-key global-map "\C-ct" 'insert-time)
