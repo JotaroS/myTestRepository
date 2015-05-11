@@ -9,6 +9,8 @@ The elder scroll VI ~MOMOTARO~
 4
 5
 AlduinをたおしたももたろうはSkyrimの英雄となりましたとさ．めでたしめでたしｗ
+おしまいおしまい
+
 
 
 
