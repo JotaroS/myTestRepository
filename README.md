@@ -1,6 +1,6 @@
 Book Title
 1
-The elder scroll VI ~RiverWood~
+The elder scroll VI ~MOMOTARO~
 2
 あるひ，おばあさんが川でせんたくしていたところ，川の上流からレアアイテム「大きなもも」が
 ながれてきました．おばあさんはたいそうびっくりして，大きなももをおうちにもってかえりました
