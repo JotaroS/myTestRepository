@@ -12,7 +12,9 @@ Ahrk fin norok paal graan fod nust hon zindro zaan,
 Dovahkiin, fah hin kogaan mu draal!
 4
 5
+AlduinをたおしたももたろうはSkyrimの英雄となりましたとさ．めでたしめでたしｗ
 おしまいおしまい
+
 
 
 
