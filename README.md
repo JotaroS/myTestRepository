@@ -4,9 +4,7 @@ chap 1 edited
 edited edited
 
 2
-あるひ，おばあさんが川でせんたくしていたところ，川の上流からレアアイテム「大きなもも」が
-ながれてきました．おばあさんはたいそうびっくりして，大きなももをおうちにもってかえりました
-そのひ，おじいさんと一緒にももを半分にきってみると，中からDovahkiinが....!!!
+chap 2 edited
 3
 Dovahkiin, Dovahkiin, naal ok zin los vahriin,
 Wah dein vokul mahfaeraak ahst vaal!
